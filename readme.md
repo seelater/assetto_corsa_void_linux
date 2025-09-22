@@ -7,7 +7,7 @@
 
 4 dbus-launch protontricks 244210 winecfg
 
-     add dwrite to libs
+add dwrite to libs
 
 5 download and copy fonts from of site 
 
