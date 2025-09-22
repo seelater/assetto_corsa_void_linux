@@ -1,5 +1,5 @@
 # game
-1 start the game using Proton 5.0-10 and let it run until it crashes
+1 start the game using Proton 5.0-10 and let it run until it crashes \n
 2 switch to proton 9
 3 dbus-launch protontricks 244210 dotnet452 vcrun2015 d3dcompiler_47 dxvk corefonts
 4 dbus-launch protontricks 244210 winecfg
