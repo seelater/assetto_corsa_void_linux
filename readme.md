@@ -1,3 +1,7 @@
+SteamLibrary - steam folder
+
+  rm -rf /SteamLibrary/steamapps/compatdata/244210
+
 # game
 1 start the game using Proton 5.0-10 and let it run until it crashes
 
