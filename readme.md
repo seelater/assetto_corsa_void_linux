@@ -11,7 +11,7 @@ add dwrite to libs
 
 5 download and copy fonts from of site 
 
-# for cm
+# cm
 1 copy cm to game folder
 
 2 Rename the file to Content Manger Safe.exe
