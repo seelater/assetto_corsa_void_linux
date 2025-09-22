@@ -6,7 +6,8 @@
 3 dbus-launch protontricks 244210 dotnet452 vcrun2015 d3dcompiler_47 dxvk corefonts
 
 4 dbus-launch protontricks 244210 winecfg
-     add dwrite
+
+     add dwrite to libs
 
 5 download and copy fonts from of site 
 
