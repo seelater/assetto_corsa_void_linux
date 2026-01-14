@@ -1,4 +1,5 @@
 SteamLibrary - steam folder
+cm - content manager
 
 rm -rf /SteamLibrary/steamapps/compatdata/244210
 
@@ -16,7 +17,7 @@ add dwrite to libs
 # cm
 1 copy "Content Manager.exe" to game folder
 
-2 Rename AssettoCorsa.exe to AssettoCorsa_origibal.exe and Content Manger.exe to AssettoCorsa.exe
+2 Rename AssettoCorsa.exe to AssettoCorsa_original.exe and Content Manger.exe to AssettoCorsa.exe
 
 3 link steam profile
 
