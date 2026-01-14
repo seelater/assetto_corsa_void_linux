@@ -13,18 +13,12 @@ rm -rf /SteamLibrary/steamapps/compatdata/244210
 
 add dwrite to libs
 
-5 download and copy fonts from of site 
-
 # cm
-1 copy cm to game folder
+1 copy "Content Manager.exe" to game folder
 
-2 Rename the file to Content Manger Safe.exe
+2 Rename AssettoCorsa.exe to AssettoCorsa_origibal.exe and Content Manger.exe to AssettoCorsa.exe
 
-3 add launch option where steamlib is where proton and/or game is installed
-
-/SteamLibrary/steamapps/common/'Proton 9.0 (Beta)'/proton waitforexitandrun /SteamLibrary/steamapps/common/assettocorsa/'Content Manager Safe.exe'; echo %command%
-
-4 link steam profile
+3 link steam profile
 
 ln -s "$HOME/.steam/root/config/loginusers.vdf" '/SteamLibrary/steamapps/compatdata/244210/pfx/drive_c/Program Files (x86)/Steam/config/loginusers.vdf'
 
@@ -37,3 +31,6 @@ launch game + install 7z
 download 0.2.2 from of site 
 
 from cm -> install from file -> select 0.2.2 csp ver that you download -> install -> manually unzip csp 0.2.2 and copy dwrite ONLY to game folder 
+
+# note: 
+first launch will ask for fonts content manager will provide link to download. 
